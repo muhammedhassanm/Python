@@ -1,2 +1,2 @@
-# Fullstack_Python
-Django,Angular,
+# Python
+Python Programming
