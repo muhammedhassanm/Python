@@ -1,0 +1,10 @@
+
+I used Multiple Linear Regression For prediction with following steps.
+
+Firstly, I have prepared data for training. In this I converted categorical data to numbers using find and replace method.
+
+Then, created a model using linear regression. 
+
+Evaluated the model R^2 Value.
+
+Then Test the model With Test.csv
